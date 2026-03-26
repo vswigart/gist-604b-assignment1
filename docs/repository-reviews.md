@@ -81,25 +81,30 @@ One thing this project does well.
 
 ## Repository 4
 
-**Repository Name:**  
-**Link:**  
+Repository Name: qgis/QGIS  
+Link: https://github.com/qgis/QGIS  
 
 ### Purpose
 What does this project do?
+**QGIS is an open source GIS desktop application that allows users to create, edit, analyze, and visualize geospatial data.
 
 ### Repository Structure
 What folders or files stand out?
+**src/ , python/ , doc/ , resources/ , .github/
 
 ### Documentation
 How helpful is the README?
+**It is exceptionally strong for a large open source project. The file contains a clear overview of QGIS features. It also has installation guidance and a range of documentation links. 
 
 ### Activity
 Is the repository actively maintained?
+**Yes. The newest release was 3 weeks ago and it has more than 96,000 commits. 
 
 ### Key Observation
 One thing this project does well.
-
+**This project has an extensible architecture, allowing government, researchers, and businesses to tailor QGIS to their specific workflows.
 
 ## Reflection
 
 In 3–5 sentences, explain what you learned about how open source projects are organized.
+**Open source projects should follow clear, structured patterns that make it easy for anyone to understand and contribute to. Most have a directory layout that separate core code, tests, documentation, and platform-specific components. A good README.md is imperative, as it is the first point of orientation for a user when they encounter a project. 
