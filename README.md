@@ -1,54 +1,20 @@
-# Assignment 1: GitHub Repository Management
+# Victoria Swigart – GIS Portfolio
 
-**Student:** Victoria Swigart  
-**Course:** GIST 604B – Open Source GIS  
-**Module:** Module 1 – Open Source Infrastructure & Workflows  
-**University of Arizona**
+# About
 
-## Project Description
+I began my GIS career in 2016 as a Geospatial Engineer in the U.S. Army. In 2021 I continued my GIS education as a contractor - Geospatial Analyst, supporting military operations overseas.
 
-This project introduces foundational open‑source GIS workflows by creating and configuring a professional GitHub repository. The assignment focuses on documentation, Python scripting, repository organization, and Git workflow fundamentals. The goal is to build a clean, well‑structured repository that reflects industry‑standard open‑source practices.
+I now work as a Project Coordinator in the GIS domain, supporting methane detection, aerial pipeline patrol, and utility pole inspection workflows. My work integrates spatial data science, remote sensing, and technical communication to strengthen field operations and deliver accurate, actionable geospatial products.
 
-## Tools and Technologies
+# Projects
 
-- GitHub & GitHub Codespaces
-- Python
-- Markdown
-- Git (stage → commit → push workflow)
+Links to course projects will be added as part of this assignment.
 
-## What I Did
+# Skills
 
-- Created a public GitHub repository with required metadata, license, and structure
-- Updated README.md using a professional documentation template
-- Wrote and executed a Python script (hello.py) inside GitHub Codespaces
-- Practiced Git workflow: staging, committing, and syncing changes
-- Created documentation files in docs/ and reviewed open‑source GIS repositories
-
-## How to View / Run
-
-- Run the Python script:  
-- python scripts/hello.py  
-- (Run inside GitHub Codespaces or any Python environment)
-
-## View documentation:
-
-Open files in the docs/ folder:
-codespaces-practice.md
-repository-reviews.md
-Browse repository online:  
-https://github.com/vswigart/gist-604b-assignment1
-
-## Repository Structure
-
-```
-/
-├── README.md                 → Main project documentation
-├── LICENSE                   → MIT License
-├── .gitignore                → Python ignore template
-├── scripts/
-│   └── hello.py              → Python script created and updated in Codespaces
-└── docs/
-    ├── codespaces-practice.md → Reflection on Codespaces workflow
-    └── repository-reviews.md  → Reviews of four open-source GIS repositories
-```
-
+- GIS & Spatial Analysis: ArcGIS Pro, ArcGIS Online, QGIS, PostGIS
+- Programming & Data: Python, GeoPandas, spatial SQL, Git/GitHub
+- Remote Sensing: LiDAR, DEMs, multispectral imagery
+- Aviation & Inspection Workflows: Methane detection, pipeline patrol, utility pole inspection
+- Web Mapping & Visualization: Leaflet, HTML/CSS, GitHub Pages
+- Technical Communication: SOP development, workflow documentation, operational writing
